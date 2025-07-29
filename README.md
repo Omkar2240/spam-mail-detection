@@ -27,7 +27,6 @@ spam-mail-detector/
 ├── frontend/
 │   └── (Next.js app here)
 │
-├── train_and_save_model.py
 └── README.md
 ```
 
@@ -47,11 +46,6 @@ pip install pandas scikit-learn joblib
 ```
 
 ---
-
-## 🧪 Train Model
-```bash
-python train_and_save_model.py
-```
 
 ---
 
