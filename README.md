@@ -68,4 +68,3 @@ npm run dev
 ## 📦 Output
 - `spam_model.pkl` - Trained Logistic Regression model
 - `vectorizer.pkl` - TF-IDF feature extractor
-# spam-mail-detection
